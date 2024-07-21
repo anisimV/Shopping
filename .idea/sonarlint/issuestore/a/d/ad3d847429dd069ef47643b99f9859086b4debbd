@@ -1,0 +1,21 @@
+
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Çµí‘8¸÷ì´2J$e67c4025-8b10-4684-9e81-cf0277debb5f
+r	java:S106"+Replace this use of System.out by a logger.(ã¡£·üÿÿÿÿ8È÷ì´2J$c4ab3ab7-6e45-48a8-9780-c8be7d71d4e6
+m	java:S106"+Replace this use of System.out by a logger.(ş³†©8ô÷ì´2J$7676cc66-5399-4877-863c-5d195876ac87
+m	java:S106"+Replace this use of System.out by a logger.(“ñœœ8ƒøì´2J$b67858ca-3a34-45ad-aeb1-7c5b7414e575
+r	java:S106"+Replace this use of System.out by a logger.(šª‡ıÿÿÿÿ8’øì´2J$20d96f66-a6a9-4f92-8096-71db0f3d6d07
+m	java:S106"+Replace this use of System.out by a logger.(¹ÁÓß8¢øì´2J$f4e3c47d-2bd2-452a-9ac9-3cdc6a580c5a
+r	java:S106"+Replace this use of System.out by a logger.(É†Éşÿÿÿÿ8¥øì´2J$6a26ed7f-6f84-47cb-90e5-5c265093871e
+y
+java:S6880"6Replace the chain of if/else with a switch expression.(³ä±ÿ8Áøì´2J$382cf1e1-57a2-4161-a1a8-eb03dbe3b444
+r	java:S106"+Replace this use of System.out by a logger.(î³Ï¤üÿÿÿÿ8Æøì´2J$146b58ad-9408-49a6-9b53-80e0ac431f81
+m	java:S106'"+Replace this use of System.out by a logger.(à’ë8ÿØ“µ2J$650f3fa4-a46d-40c6-a028-740a27ad9849
+r	java:S106+"+Replace this use of System.out by a logger.(Ğ§¹ğûÿÿÿÿ8€Ù“µ2J$ebdef1fa-907f-46dd-83b1-c10a89c02991
+r	java:S106."+Replace this use of System.out by a logger.(Ï¤Öçıÿÿÿÿ8Ù“µ2J$4f24d743-b628-408b-b5d5-9498d79175c4
+r	java:S1062"+Replace this use of System.out by a logger.(€–öÀüÿÿÿÿ8ÎÅ”µ2J$4d29a4d4-0869-4ec0-bf69-ddbcece62f84
+m	java:S1064"+Replace this use of System.out by a logger.(êÿä„8ÏÅ”µ2J$8c6a55bb-ceba-4225-9782-93bfe86e5818
+r	java:S1066"+Replace this use of System.out by a logger.(ù„¨‰şÿÿÿÿ8ĞÅ”µ2J$76859f78-f501-40c2-81e5-d9f4d98efc0b
+r	java:S106>"+Replace this use of System.out by a logger.(„€“‡ıÿÿÿÿ8ÑÅ”µ2J$e7ba2f3e-e58e-4597-b460-2acdfcd8649f
+m	java:S106@"+Replace this use of System.out by a logger.(õç´ª8ÑÅ”µ2J$4c6190e2-3212-4683-b2bd-3684f21dbcfe
+m	java:S106D"+Replace this use of System.out by a logger.(ƒš–î8ÒÅ”µ2J$b4b9cf98-8b41-4ab0-82a9-87d484f34717
